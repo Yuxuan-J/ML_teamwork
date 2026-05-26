@@ -37,7 +37,6 @@ Thumbs.db
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
 
 # Data directory
 data/
@@ -50,3 +49,5 @@ data/
 *.json
 output/
 results/
+
+_*
