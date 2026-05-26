@@ -49,5 +49,6 @@ data/
 *.json
 output/
 results/
+plan*
 
 _*
